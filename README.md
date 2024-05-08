@@ -11,3 +11,6 @@ X: reject
 Space: choose
 
 ESC: return
+
+<img width="563" alt="Screen Shot 1403-02-19 at 8 40 22 PM" src="https://github.com/ParnianTaheri/Psychtoolbox-Memory/assets/85147545/56705c88-774a-433e-ac47-98709019348a">
+
